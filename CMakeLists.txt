@@ -3,4 +3,4 @@ project(test3 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(test3 main.c dff.c asdf.c)
+add_executable(test3 main.c)
